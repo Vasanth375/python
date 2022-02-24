@@ -1,0 +1,47 @@
+.mail {
+margin: auto;
+padding-top: 10px;
+padding-bottom: 10px;
+width: 400px;
+background : 
+#D8F1F8;
+border: 1px soild 
+silver;
+}
+
+
+input {
+font-size: 15pt;
+}
+
+input:focus{
+background-color: 
+rgb(255, 255, 239);
+}
+
+input submit {
+font-size: 0pt;
+}
+
+
+*{
+    box-sizing: border-box; 
+}
+
+body{
+    background-color: #25b6cf;
+    
+}
+h2{
+    font-size:large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style:italic;
+}
+h1, h3{
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button{
+    background-color: aliceblue;
+}
