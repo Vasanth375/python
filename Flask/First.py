@@ -7,6 +7,7 @@ app=Flask(__name__)
 
 #Making a mysql connection
 database1 = mysql.connector.connect(host = 'Vasanth68.mysql.pythonanywhere-services.com', user = 'Vasanth68', password = '#nimmala9876', database = 'Vasanth68$sample')
+
 #creating cursor to execute sql statements
 mycursor = database1.cursor()
 

@@ -1,5 +1,5 @@
 numofout=10  #number of outputs
-print(0,end='\n')#printing 0 and 1
+print(0)#printing 0 and 1
 print(1)
 k1,k2,k3=0,1,0 #assigning values to operating variables
 for i in range(numofout): #range from 0 to 9
